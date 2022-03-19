@@ -3,39 +3,6 @@ import pandas as pd
 import csv
 
 import os
-# -------------
-# import datetime as dt
-
-# now = dt.datetime.now()
-# print("The time right now is ", now)
-
-# ----------------
-
-# csv_file = "Resources/election_results1.csv"
-
-# df_elections = pd.read_csv(file_to_load)
-# # print(df_elections.head())
-
-# print(dir(csv))
-
-
-# ---------------
-
-# election_data = open(file_to_load, 'r')
-
-# Open the election results and read the file
-
-# Direct path to file --------
-
-# file_to_load = "election_results.csv"
-
-# with open(file_to_load) as election_data:
-    # To do: perform analysis.
-    #  print(election_data)
-
-#  --------
-
-# Indirect path to file  with os --------
 
 
 # file_to_load = os.path.join( "election_results.csv")
