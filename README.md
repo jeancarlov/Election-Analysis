@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit:
 
-A Colorado Board of Elecitons employee has given you the following task to complete the elcetion audit of a recent local congressional election.
+A Colorado Board of Elecitons employee has given you the following task to complete the election audit of a recent local congressional election.
 
 * Candidate Results Objective:
 1. Calculate the total nummber of votes cast.
@@ -47,6 +47,8 @@ The analysis of the election show that:
   - Winner: Denver county cast the most votes at 82.8% (306,055).
 
 ## Election-Audit Summary:
+
+This election audit will summarized the requested task by the colorado board of election to calculate key results from the votes cast at the election. This file was develop to support the county election system with increase effiency in data collection, to reduced the probability of human error, and to reduce the expense budget by allocating resources to other needed task to provide an accurated and trusted elections result. This automation script file can be modify to track the success rate of each candidate in each county as well as to calculate success of each candidate on the the different demography ranges of age. 
 
 
 
